@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-    Hi, mebish <img src='assets/hecker.png' height="40" width="auto" alt="hecker" style="vertical-align: bottom;"> here👋 
+    Hi, mebish here👋 
 </h1>
 </div>
 
