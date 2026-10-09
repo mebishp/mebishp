@@ -29,5 +29,11 @@
 ## Currently working on
 
 **[hypr-util](https://github.com/mebishp/hypr-util)** — Fan curve & RGB control for HP Omen laptops
+
 A system utility for HP Omen laptops on linux to control fans and rgb, with rgb indicators as well
+
+
+**[meku](https://github.com/mebishp/meku)** — A GPU Accelerated Markdown Editor
+
+A Completely native Markdown Editor built using gpui
 
