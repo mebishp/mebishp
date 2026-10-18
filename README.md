@@ -24,7 +24,7 @@
 - 19 y/o developing fun linux utilities
 - Have worked on Full Stack projects covering MERN, LangChain, RAG etc
 - Like to make fun little hardware projects w. ESP32 and Arduino
-- Learning Go rn, guess it works for backend
+- Trying out some projects here and there
 
 ## Currently working on
 
